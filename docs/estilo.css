@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.limenu{
+    list-style: none;
+    /*ao invez de ser um embaixo do outro, vao ficar em uma linha*/
+    display: inline;
+    /*tamanho que ocupa na tela, define espaçamento entre cada item*/
+    margin: 4% 6% 4% 6%;
+    background-color: rgb(192, 166, 218);
+    /*tamanho do contorno do background*/
+    padding: 0.1%;
+}
+nav{
+    background-color: rgb(223, 245, 241);
+    padding: 1%;
+}
+.nomeh1{
+    /*Centralizar o nome*/
+    text-align: center;
+}
